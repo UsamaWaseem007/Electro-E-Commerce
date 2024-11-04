@@ -1,0 +1,95 @@
+﻿@{
+    Layout = "~/Views/Shared/login-Register.cshtml";
+}
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 500px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        input[type="text"], input[type="email"], input[type="password"] {
+            margin: 10px 0;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button {
+            padding: 10px;
+            font-size: 16px;
+            background-color: #ff4747;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #ff3636;
+        }
+
+        .login-link {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .login-link a {
+            color: #ff4747;
+            text-decoration: none;
+        }
+
+        .login-link a:hover {
+            text-decoration: underline;
+        }
+    </style>
+
+
+    <div class="container">
+        <h2>Register</h2>
+    <form asp-action="Register" method="POST">
+            <input type="text" name="name" placeholder="Full Name" required>
+        <input type="email" name="Email" placeholder="Email Address" required>
+        <input type="password" name="Password" placeholder="Password" required>
+        <input type="password" name="ConfirmPassword" placeholder="Confirm Password" required>
+
+        
+
+            <button type="submit">Register</button>
+        </form>
+
+        <div class="login-link">
+        <p>Already have an account? <a asp-controller="Account" asp-action="Login">Login Here</a></p>
+        </div>
+  
+         <h6>Password Requirements:</h6>
+    <ul class="text-danger">
+        <li>At least 8 characters long</li>
+        <li>At least one uppercase letter (A-Z)</li>
+        <li>At least one lowercase letter (a-z)</li>
+        <li>At least one digit (0-9)</li>
+        <li>At least one non-alphanumeric character (e.g. !$%^&* Or Other Special Charecter)</li>
+    </ul>
+    </div>
+

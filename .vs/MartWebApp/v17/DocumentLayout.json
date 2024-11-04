@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MartWebApp\\MartWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76203A3A-B041-4E3D-ADB1-886FD5FD90DD}|MartWebApp\\MartWebApp.csproj|d:\\martwebapp\\martwebapp\\martwebapp\\views\\checkout\\orderconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76203A3A-B041-4E3D-ADB1-886FD5FD90DD}|MartWebApp\\MartWebApp.csproj|solutionrelative:martwebapp\\views\\checkout\\orderconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76203A3A-B041-4E3D-ADB1-886FD5FD90DD}|MartWebApp\\MartWebApp.csproj|d:\\martwebapp\\martwebapp\\martwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76203A3A-B041-4E3D-ADB1-886FD5FD90DD}|MartWebApp\\MartWebApp.csproj|solutionrelative:martwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76203A3A-B041-4E3D-ADB1-886FD5FD90DD}|MartWebApp\\MartWebApp.csproj|d:\\martwebapp\\martwebapp\\martwebapp\\wwwroot\\css\\confirm.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{76203A3A-B041-4E3D-ADB1-886FD5FD90DD}|MartWebApp\\MartWebApp.csproj|solutionrelative:martwebapp\\wwwroot\\css\\confirm.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76203A3A-B041-4E3D-ADB1-886FD5FD90DD}|MartWebApp\\MartWebApp.csproj|d:\\martwebapp\\martwebapp\\martwebapp\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76203A3A-B041-4E3D-ADB1-886FD5FD90DD}|MartWebApp\\MartWebApp.csproj|solutionrelative:martwebapp\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76203A3A-B041-4E3D-ADB1-886FD5FD90DD}|MartWebApp\\MartWebApp.csproj|d:\\martwebapp\\martwebapp\\martwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76203A3A-B041-4E3D-ADB1-886FD5FD90DD}|MartWebApp\\MartWebApp.csproj|solutionrelative:martwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "D:\\MartWebApp\\MartWebApp\\MartWebApp\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "MartWebApp\\Controllers\\CheckoutController.cs",
+              "ToolTip": "D:\\MartWebApp\\MartWebApp\\MartWebApp\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "MartWebApp\\Controllers\\CheckoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:35:48.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "confirm.css",
+              "DocumentMoniker": "D:\\MartWebApp\\MartWebApp\\MartWebApp\\wwwroot\\css\\confirm.css",
+              "RelativeDocumentMoniker": "MartWebApp\\wwwroot\\css\\confirm.css",
+              "ToolTip": "D:\\MartWebApp\\MartWebApp\\MartWebApp\\wwwroot\\css\\confirm.css",
+              "RelativeToolTip": "MartWebApp\\wwwroot\\css\\confirm.css",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAowFoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-18T09:13:55.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MartWebApp\\MartWebApp\\MartWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MartWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MartWebApp\\MartWebApp\\MartWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MartWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAiwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:45:15.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderConfirm.cshtml",
+              "DocumentMoniker": "D:\\MartWebApp\\MartWebApp\\MartWebApp\\Views\\Checkout\\OrderConfirm.cshtml",
+              "RelativeDocumentMoniker": "MartWebApp\\Views\\Checkout\\OrderConfirm.cshtml",
+              "ToolTip": "D:\\MartWebApp\\MartWebApp\\MartWebApp\\Views\\Checkout\\OrderConfirm.cshtml",
+              "RelativeToolTip": "MartWebApp\\Views\\Checkout\\OrderConfirm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T08:46:05.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MartWebApp\\MartWebApp\\MartWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "MartWebApp\\Program.cs",
+              "ToolTip": "D:\\MartWebApp\\MartWebApp\\MartWebApp\\Program.cs",
+              "RelativeToolTip": "MartWebApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:22:20.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
